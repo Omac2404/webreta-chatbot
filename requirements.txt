@@ -1,9 +1,5 @@
 fastapi
 uvicorn
-langchain
-langchain-community
-faiss-cpu
-sentence-transformers
 groq
 langchain-groq
-langchain-huggingface
+langchain-core
